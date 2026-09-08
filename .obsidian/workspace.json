@@ -1,0 +1,218 @@
+{
+  "main": {
+    "id": "c66d8819fa4e3531",
+    "type": "split",
+    "children": [
+      {
+        "id": "86c3c356cba87e63",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c0ad143f31906475",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Граф"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5463c4db6f00952e",
+    "type": "split",
+    "children": [
+      {
+        "id": "cf7dd45082bfc36f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "772475a73a9ea15b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "90e39184a9e68f89",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "eca5a25a24f7c5bd",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "7fa9cc2a00048b5b",
+    "type": "split",
+    "children": [
+      {
+        "id": "6272b9fc3970bf10",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dea4009a9934d154",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки"
+            }
+          },
+          {
+            "id": "af378d6426b617d3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки"
+            }
+          },
+          {
+            "id": "6ad5e05e899278ca",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "9c1fcbc4b189f43c",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Все свойства"
+            }
+          },
+          {
+            "id": "a66ebcdbd1872525",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "bases:Создать новую базу": false,
+      "obsidian-excalidraw-plugin:Создать новый чертеж": false
+    }
+  },
+  "active": "c0ad143f31906475",
+  "lastOpenFiles": [
+    "3 Seminar ML.md",
+    "4 Lection ML.md",
+    "4 Seminar ML.md",
+    "онлайн обучение.png",
+    "2 Seminar ML.md",
+    "SGD-1.png",
+    "SGD.png",
+    "аномалия.png",
+    "1 Lection ML.md",
+    "Без названия.md",
+    "мультистарт-1.png",
+    "мультистарт.png",
+    "Pasted image 20260823144229.png",
+    "градиентный спуск.png",
+    "3 Lection ML.md",
+    "линейные веса.png",
+    "MSE в таблицах.png",
+    "2 Lection ML.md",
+    "1 Seminar ML.md",
+    "Excalidraw/график квантильной функции потерь.md",
+    "Excalidraw/Drawing 2026-08-22 14.25.17.excalidraw.md",
+    "Excalidraw",
+    "Excalidraw/Drawing 2026-08-19 23.25.40.excalidraw.md",
+    "Без названия.canvas",
+    "Лекция 1 ML.md",
+    "Без названия 1.canvas",
+    "Без названия.base",
+    "Без названия 1.base",
+    "Добро пожаловать.md",
+    "создайте ссылку.md"
+  ]
+}
