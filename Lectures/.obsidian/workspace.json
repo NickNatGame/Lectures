@@ -1,64 +1,14 @@
 {
   "main": {
-    "id": "eda009df8e0c1022",
+    "id": "c66d8819fa4e3531",
     "type": "split",
     "children": [
       {
-        "id": "414ea23ae620f762",
+        "id": "86c3c356cba87e63",
         "type": "tabs",
         "children": [
           {
-            "id": "f3bde881bfa4f16c",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Граф"
-            }
-          },
-          {
-            "id": "bd6ec0a6fa9f9ee8",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Граф"
-            }
-          },
-          {
-            "id": "9d34b1256660b568",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Граф"
-            }
-          },
-          {
-            "id": "2627f47dfdf47db5",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Граф"
-            }
-          },
-          {
-            "id": "3c6efe668bd22529",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Граф"
-            }
-          },
-          {
-            "id": "0f4b47bf9842770d",
+            "id": "c0ad143f31906475",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -67,22 +17,21 @@
               "title": "Граф"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "3446b93dda43950c",
+    "id": "5463c4db6f00952e",
     "type": "split",
     "children": [
       {
-        "id": "e74d0fd658ae7964",
+        "id": "cf7dd45082bfc36f",
         "type": "tabs",
         "children": [
           {
-            "id": "773ca11c3f0875ca",
+            "id": "772475a73a9ea15b",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -97,7 +46,7 @@
             }
           },
           {
-            "id": "29dd93806e49c0ea",
+            "id": "90e39184a9e68f89",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -114,7 +63,7 @@
             }
           },
           {
-            "id": "28f0582df99cc713",
+            "id": "eca5a25a24f7c5bd",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -130,23 +79,22 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
-    "id": "94348d11369515f0",
+    "id": "7fa9cc2a00048b5b",
     "type": "split",
     "children": [
       {
-        "id": "d22c1f77d2cc5ead",
+        "id": "6272b9fc3970bf10",
         "type": "tabs",
         "children": [
           {
-            "id": "c61abaf782f69504",
+            "id": "dea4009a9934d154",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lecture 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,12 +108,11 @@
             }
           },
           {
-            "id": "f63711f2b07b7b45",
+            "id": "af378d6426b617d3",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lecture 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -174,7 +121,7 @@
             }
           },
           {
-            "id": "f09c13f032846699",
+            "id": "6ad5e05e899278ca",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -189,7 +136,7 @@
             }
           },
           {
-            "id": "43e7efd462de4897",
+            "id": "9c1fcbc4b189f43c",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -203,12 +150,11 @@
             }
           },
           {
-            "id": "797bfeda90881257",
+            "id": "a66ebcdbd1872525",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lecture 1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -216,23 +162,13 @@
               "icon": "lucide-list",
               "title": "Структура"
             }
-          },
-          {
-            "id": "4ade399009b44866",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -243,51 +179,40 @@
       "templates:Вставить шаблон": false,
       "command-palette:Открыть палитру команд": false,
       "bases:Создать новую базу": false,
-      "obsidian-excalidraw-plugin:Создать новый чертеж": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-excalidraw-plugin:Создать новый чертеж": false
     }
   },
-  "active": "0f4b47bf9842770d",
+  "active": "c0ad143f31906475",
   "lastOpenFiles": [
-    "Lectures/2 Seminar ML.md",
-    "Lectures/Lecture 2 АКОС.md",
-    "2 курс.md",
-    "Lectures/Pasted image 20260907192715.png",
-    "Lectures/Pasted image 20260907191114.png",
-    "Lectures/Pasted image 20260907191049.png",
-    "Lectures/Pasted image 20260907184313.png",
-    "Lectures/Pasted image 20260907182638.png",
-    "Lectures/Pasted image 20260907182635.png",
-    "Lectures/Pasted image 20260907142158.png",
-    "Lectures/Pasted image 20260907142145.png",
-    "Lectures/Pasted image 20260907141517.png",
-    "Lectures/Pasted image 20260907133859.png",
-    "Lectures/Lecture 1 теорвер.md",
-    "Lectures/Lecture 1 КПО.md",
-    "Lectures/Lecture 1 АнДан.md",
-    "Lectures/Lecture 1 АКОС.md",
-    "Lectures/Lecture 1 АиСД.md",
-    "Lectures/2 курс.md",
-    "Lectures/Excalidraw/график квантильной функции потерь.md",
-    "Lectures/Excalidraw",
-    "Lectures/4 Seminar ML.md",
-    "Lectures/4 Lection ML.md",
-    "Lectures/3 Seminar ML.md",
-    "Lectures/3 Lection ML.md",
-    "Lectures/2 Lection ML.md",
-    "Lectures/1 Seminar ML.md",
-    "Lectures/1 Lection ML.md",
-    "Lectures",
-    "Lecture 1 АиСД.md",
-    "Lecture 1 АнДан.md",
-    "Lecture 1 КПО.md",
-    "Lecture 2 АКОС.md",
-    "Lecture 1 АКОС.md",
-    "Без названия",
+    "3 Seminar ML.md",
+    "4 Lection ML.md",
+    "4 Seminar ML.md",
+    "онлайн обучение.png",
+    "2 Seminar ML.md",
+    "SGD-1.png",
+    "SGD.png",
+    "аномалия.png",
+    "1 Lection ML.md",
+    "Без названия.md",
+    "мультистарт-1.png",
+    "мультистарт.png",
+    "Pasted image 20260823144229.png",
+    "градиентный спуск.png",
+    "3 Lection ML.md",
+    "линейные веса.png",
+    "MSE в таблицах.png",
+    "2 Lection ML.md",
+    "1 Seminar ML.md",
+    "Excalidraw/график квантильной функции потерь.md",
+    "Excalidraw/Drawing 2026-08-22 14.25.17.excalidraw.md",
+    "Excalidraw",
+    "Excalidraw/Drawing 2026-08-19 23.25.40.excalidraw.md",
     "Без названия.canvas",
-    "Lecture 1 теорвер.md",
-    "Lection 1 КПО.md",
+    "Лекция 1 ML.md",
+    "Без названия 1.canvas",
     "Без названия.base",
-    "Добро пожаловать.md"
+    "Без названия 1.base",
+    "Добро пожаловать.md",
+    "создайте ссылку.md"
   ]
 }

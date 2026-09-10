@@ -1,9 +1,10 @@
 [
-  "themed-discord-rpc",
-  "code-emitter",
-  "execute-code",
-  "obsidian-excalidraw-plugin",
+  "obsidian-linter",
   "obsidian-latex-suite",
   "obsidian-paste-image-rename",
-  "dataview"
+  "execute-code",
+  "obsidian-excalidraw-plugin",
+  "dataview",
+  "code-emitter",
+  "obsidian-git"
 ]
