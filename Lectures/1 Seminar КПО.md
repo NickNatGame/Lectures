@@ -13,7 +13,7 @@ public class Car
 ```c#
 public class Customer
 {
-	public Car? car(get; private set;)
+	public Car? car(get; set;)
 	
 	public Customer()
 	{
@@ -23,4 +23,16 @@ public class Customer
 ```
 ```c#
 
+```
+```c#
+class CarFactory
+{
+	private int counter = 0;
+	private List<Car> cars = new();
+	private List<Customer> customers = new();
+	
+	private AddCustomer(Custoemr customer){
+		_customers.Add()
+	}
+}
 ```
