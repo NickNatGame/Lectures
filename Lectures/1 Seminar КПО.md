@@ -31,8 +31,19 @@ class CarFactory
 	private List<Car> cars = new();
 	private List<Customer> customers = new();
 	
-	private AddCustomer(Custoemr customer){
-		_customers.Add()
+	private AddCustomer(Customer customer){
+		_customers.Add(customer);
+	}
+	
+	private AddCar(){
+		counter++;
+		_cars.Add(new Car())
+	}
+	
+	public void SaleCar(){
+		foreach(var customer in _customer){
+			if(cusom)
+		}
 	}
 }
 ```
