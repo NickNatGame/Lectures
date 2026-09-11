@@ -42,7 +42,14 @@ class CarFactory
 	
 	public void SaleCar(){
 		foreach(var customer in _customer){
-			if(cusom)
+			if(customer.car is not Null){
+				continue;
+			}
+			var car = _cars.FirstOrDefault();
+			
+			if(car is Null){
+				break;
+			}
 		}
 	}
 }
