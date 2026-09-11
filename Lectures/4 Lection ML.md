@@ -1,4 +1,4 @@
-Connected with [[3 Seminar ML]] and continue [[3 Lection ML]]
+Connected with [[Lectures/3 Seminar ML]] and continue [[3 Lection ML]]
 ### Обучение линейных моделей
 (начало было на семинарах)
 ![[MSE в таблицах.png]]
