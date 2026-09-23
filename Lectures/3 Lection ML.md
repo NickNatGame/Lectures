@@ -1,6 +1,6 @@
 Connected with [[2 Seminar ML]] and continue [[2 Lection ML]] 
 
-Connected with [[3 Seminar ml]]
+Connected with [[3&4 seminar ml]]
 ### Еще ошибки
 ##### **MSLE**( Mean Squared Logarithmic Error )
 $$
